@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		86EDCF1C1AE5E9BB00215BFD /* Images-2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86EDCF1B1AE5E9BB00215BFD /* Images-2.xcassets */; };
 		A64DEE051ADDFFC600B2B5DB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A64DEE041ADDFFC600B2B5DB /* main.m */; };
 		A64DEE081ADDFFC600B2B5DB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A64DEE071ADDFFC600B2B5DB /* AppDelegate.m */; };
 		A64DEE0B1ADDFFC600B2B5DB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A64DEE0A1ADDFFC600B2B5DB /* ViewController.m */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		86EDCF1B1AE5E9BB00215BFD /* Images-2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-2.xcassets"; sourceTree = "<group>"; };
 		A64DEDFF1ADDFFC600B2B5DB /* TuneSwing- C.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TuneSwing- C.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A64DEE031ADDFFC600B2B5DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A64DEE041ADDFFC600B2B5DB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 				A64DEE0C1ADDFFC600B2B5DB /* Main.storyboard */,
 				A64DEE0F1ADDFFC600B2B5DB /* Images.xcassets */,
 				A64DEE111ADDFFC600B2B5DB /* LaunchScreen.xib */,
+				86EDCF1B1AE5E9BB00215BFD /* Images-2.xcassets */,
 				A64DEE021ADDFFC600B2B5DB /* Supporting Files */,
 			);
 			path = "TuneSwing- C";
@@ -296,6 +299,7 @@
 			files = (
 				A64DEE0E1ADDFFC600B2B5DB /* Main.storyboard in Resources */,
 				A64DEE2F1ADE372400B2B5DB /* Screen Shot 2015-04-12 at 8.09.31 PM.png in Resources */,
+				86EDCF1C1AE5E9BB00215BFD /* Images-2.xcassets in Resources */,
 				A64DEE131ADDFFC600B2B5DB /* LaunchScreen.xib in Resources */,
 				A674BF9A1AE44AFA00F1F4BB /* Screen Shot 2015-04-19 at 4.43.10 PM.png in Resources */,
 				A64DEE2D1ADE000200B2B5DB /* YTPlayerView-iframe-player.html in Resources */,
