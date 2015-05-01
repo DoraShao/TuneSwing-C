@@ -1,3 +1,3 @@
 # TuneSwing-C
-# This is the TuneSwing App on Xcode objective C
-# This is an music app on iphone that will play different genre of music by simple fingle movement
+# This is the TuneSwing App using Xcode objective C
+# TuneSwing is an music ios app that will play different genre of music by simple finger movement
